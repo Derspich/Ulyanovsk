@@ -1,0 +1,17 @@
+{
+  "name": "ulyanovskportfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i src/main.css -o public/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "@fontsource-variable/montserrat": "^5.0.20"
+  }
+}
